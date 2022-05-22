@@ -1,8 +1,9 @@
-## Hi there 👋
+## Hi There 👋
 
 
 
-**We Are Create Any Open source Applications**
+**We Are Create Any Open source Applications**<br>
+**We Just trying to fix bugs in the world**
 ```python
 Target=''' 
 
